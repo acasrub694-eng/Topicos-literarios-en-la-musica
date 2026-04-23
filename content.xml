@@ -1,0 +1,1772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260423195427THN6M1</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604231954277A3FE4</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Los tópicos de la lírica del s. XVI en la música actual</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Aránzazu Casabuena Rubio</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje centrada en la lírica del Renacimiento español aplicada a 3º de ESO, basada en la metodología del trabajo cooperativo y mediante el empleo de recursos musicales. La propuesta se desarrolla a través de actividades que propician el rastreo de la supervivencia de los tópicos del Renacimiento en la música actual que escuchan los adolescentes.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776964962014</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mobr23sh-whd27in8t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobr23sh-whd27in8t</odePageId>
+      <odeBlockId>block-1776182494937-2nlnhmrbv</odeBlockId>
+      <blockName>Presentación y descripción del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobr23sh-whd27in8t</odePageId>
+          <odeBlockId>block-1776182494937-2nlnhmrbv</odeBlockId>
+          <odeIdeviceId>idevice-1776182494936-ot1h5i7jz</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Imagina que e</span><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">stás escuchando una canción que habla de la belleza de un paisaje, de un amor intenso o de lo rápido que pasa el tiempo. Podría ser una canción que tienes en tu Playlist ahora mismo.</span></h3>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span><br></p>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Pero, ¿y si te dijera que esa misma idea ya la estaban escribiendo los poetas hace más de 400 años?</span></h3>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span><br></p>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">En el siglo XVI, durante el Renacimiento, los poetas hablaban de temas que seguimos escuchando hoy en muchas canciones: disfrutar del momento, la belleza de la naturaleza, de la juventud o la nostalgia por lo que ya ha pasado. </span><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span></h3>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">A estas ideas que se repiten en la literatura las llamamos tópicos literarios.</span></h3>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span><br></h3>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span><br></h3>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Hoy empezamos el reto de descubrir si la música que escucháis realmente es tan “moderna” como os parece.</span></h3>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Durante esta situación de aprendizaje vais a investigar poemas del siglo XVI y compararlos con letras de canciones actuales. Analizaremos si los temas, los sentimientos e incluso algunas formas de expresarlos siguen siendo sorprendentemente parecidos.</span></h3>
+<h3 style="text-align: justify;"><br></h3>
+<p><br></p>
+<table class="exe-table exe-package-info"><caption title="Presentación y descripción del proyecto"><a href="https://docs.google.com/document/d/1ksiyOhfEw2mxMxkX-ss5tyXmH_Tc2vypYb4ykSJih2c/edit?usp=drive_link" title="Presentación y descripción del proyecto">Presentación y descripción del proyecto</a></caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Los tópicos de la lírica del s. XVI en la música actual</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje centrada en la lírica del Renacimiento español aplicada a 3º de ESO, basada en la metodología del trabajo cooperativo y mediante el empleo de recursos musicales. La propuesta se desarrolla a través de actividades que propician el rastreo de la supervivencia de los tópicos del Renacimiento en la música actual que escuchan los adolescentes.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Aránzazu Casabuena Rubio</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#754610;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobr23sn-n617lxnb7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobr23sn-n617lxnb7</odePageId>
+      <odeBlockId>block-1776011677657-1ujfu8pf1</odeBlockId>
+      <blockName>Protección de datos y derechos digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobr23sn-n617lxnb7</odePageId>
+          <odeBlockId>block-1776011677657-1ujfu8pf1</odeBlockId>
+          <odeIdeviceId>idevice-1776011677654-37dwct74l</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Una infografía sobre protección de datos y derechos personales nos ayudará a entender cómo cuidar nuestra información en Internet. A través de iconos, colores y mensajes claros, veremos qué datos no debemos compartir y cómo proteger nuestra identidad digital. </span></h3>
+<h3 style="text-align: justify;"><br></h3>
+<p></p>
+<h3 style="text-align: center;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">¡Aprenderemos a navegar de forma segura y responsable!</span></h3>
+<p style="text-align: justify;"><br></p>
+<table class="exe-table exe-package-info"><caption title="Infografía"><a href="https://drive.google.com/file/d/18XvNzC1bVZ7MXKwkWQ5gWJB2AOsp1fw8/view?usp=drive_link" title="Infografía">Infografía</a><br><br><br></caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Los tópicos de la lírica del s. XVI en la música actual</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Aránzazu Casabuena Rubio</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#754110;color:#fcfcfc;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobr23sn-y395j06ak</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobr23sn-y395j06ak</odePageId>
+      <odeBlockId>block-1776183189804-uw1f1l74x</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobr23sn-y395j06ak</odePageId>
+          <odeBlockId>block-1776183189804-uw1f1l74x</odeBlockId>
+          <odeIdeviceId>idevice-1776183189802-65homnha7</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">El producto final será una presentación creativa en Canva donde mostraréis vuestro análisis de los tópicos de la lírica renacentista y su relación con canciones actuales. Podréis añadir imágenes, música y ejemplos que hagan vuestra explicación más visual y atractiva.</span></h3>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span><br></p>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span><br></p>
+<h3 style="text-align: center;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">¡El reto será explicar vuestras ideas en una presentación dinámica de máximo tres minutos!</span></h3>
+<p><br></p>
+<table class="exe-table exe-package-info"><caption title="Producto final"><a href="https://drive.google.com/file/d/1b4Ohxr0RL96oYVFRlj2jNmmAjIJ6vlcy/view?usp=drive_link" title="Producto final">Producto final</a></caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Los tópicos de la lírica del s. XVI en la música actual</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje centrada en la lírica del Renacimiento español aplicada a 3º de ESO, basada en la metodología del trabajo cooperativo y mediante el empleo de recursos musicales. La propuesta se desarrolla a través de actividades que propician el rastreo de la supervivencia de los tópicos del Renacimiento en la música actual que escuchan los adolescentes.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Aránzazu Casabuena Rubio</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#753d10;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobr23so-xz7txudg6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobr23so-xz7txudg6</odePageId>
+      <odeBlockId>block-1776183466096-83u9q9100</odeBlockId>
+      <blockName>Herramientas de curación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobr23so-xz7txudg6</odePageId>
+          <odeBlockId>block-1776183466096-83u9q9100</odeBlockId>
+          <odeIdeviceId>idevice-1776183466094-c399rhplh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Las herramientas de curación de contenidos nos ayudan a buscar, seleccionar y organizar información útil en Internet.</span></h3>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span></p>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Sirven para quedarnos con los mejores recursos sobre un tema y tenerlos ordenados en un mismo lugar.</span></h3>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span></p>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Así podréis reunir páginas, vídeos o canciones que os ayuden a entender mejor los tópicos literarios que estamos estudiando</span></h3>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776183466094-c399rhplh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3 style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif; color: #e67e23;\">Las herramientas de curación de contenidos nos ayudan a buscar, seleccionar y organizar información útil en Internet.</span></h3>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #e67e23;\"></span></p>\n<h3 style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif; color: #e67e23;\">Sirven para quedarnos con los mejores recursos sobre un tema y tenerlos ordenados en un mismo lugar.</span></h3>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #e67e23;\"></span></p>\n<h3 style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif; color: #e67e23;\">Así podréis reunir páginas, vídeos o canciones que os ayuden a entender mejor los tópicos literarios que estamos estudiando</span></h3>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobr23sp-cus8boxtf</odePageId>
+  <odeParentPageId>page-mobr23so-xz7txudg6</odeParentPageId>
+  <pageName>Trabajo diario</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Trabajo diario</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Trabajo diario</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobr23sp-cus8boxtf</odePageId>
+      <odeBlockId>block-1776183536823-3pdydn8gc</odeBlockId>
+      <blockName>Herramienta de curación día a día</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobr23sp-cus8boxtf</odePageId>
+          <odeBlockId>block-1776183536823-3pdydn8gc</odeBlockId>
+          <odeIdeviceId>idevice-1776183536822-85i5fd5en</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Symbaloo es una herramienta digital que nos permite organizar en un mismo lugar páginas web, vídeos y recursos útiles para la clase. </span></h3>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span><br></h3>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Funciona como un tablero visual con botones que te llevan directamente a cada contenido. </span></h3>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span><br></h3>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Así podrás acceder fácilmente a los materiales que utilizaremos para trabajar los tópicos literarios y las canciones actuales.</span></h3>
+<p><br></p>
+<table class="exe-table exe-package-info"><caption title="QR Herramientas curación día a día"><a href="https://drive.google.com/file/d/1Y3kU8iGwkRC6-L7PBHtE1GUIiGRMmyWp/view?usp=drive_link" title="QR Herramientas curación día a día">QR Herramientas curación día a día</a></caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Los tópicos de la lírica del s. XVI en la música actual</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje centrada en la lírica del Renacimiento español aplicada a 3º de ESO, basada en la metodología del trabajo cooperativo y mediante el empleo de recursos musicales. La propuesta se desarrolla a través de actividades que propician el rastreo de la supervivencia de los tópicos del Renacimiento en la música actual que escuchan los adolescentes.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Aránzazu Casabuena Rubio</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#754b10;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobr23sq-7rx54qjvu</odePageId>
+  <odeParentPageId>page-mobr23so-xz7txudg6</odeParentPageId>
+  <pageName>Elaboración proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elaboración proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elaboración proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobr23sq-7rx54qjvu</odePageId>
+      <odeBlockId>block-1776183681138-pq56fl0s1</odeBlockId>
+      <blockName>Herramienta curación proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobr23sq-7rx54qjvu</odePageId>
+          <odeBlockId>block-1776183681138-pq56fl0s1</odeBlockId>
+          <odeIdeviceId>idevice-1776183681137-wv9pbgm1r</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><h3><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Padlet es un muro digital colaborativo donde podéis publicar ideas, textos, imágenes, vídeos o enlaces.</span></h3>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span><br></p>
+<h3><br></h3>
+<h3><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Cada grupo podrá compartir sus análisis sobre los tópicos literarios y las canciones actuales que estamos trabajando.</span></h3>
+<h3><br></h3>
+<h3><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Así veremos y comentaremos entre todos las aportaciones de la clase de forma visual y dinámica.</span></h3>
+<p><br></p>
+<table class="exe-table exe-package-info"><caption title="QR Elaboración proyecto"><a href="https://drive.google.com/file/d/1bo9hBWnyw6PQSOV2ZF6LE6H3a_5jlhE-/view?usp=drive_link" title="QR Elaboración proyecto">QR Elaboración proyecto</a></caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Los tópicos de la lírica del s. XVI en la música actual</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje centrada en la lírica del Renacimiento español aplicada a 3º de ESO, basada en la metodología del trabajo cooperativo y mediante el empleo de recursos musicales. La propuesta se desarrolla a través de actividades que propician el rastreo de la supervivencia de los tópicos del Renacimiento en la música actual que escuchan los adolescentes.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Aránzazu Casabuena Rubio</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#754610;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobr23sq-6hklhaa00</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Mapa mental tareas</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mapa mental tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mapa mental tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Mapa mental tareas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobr23sq-6hklhaa00</odePageId>
+      <odeBlockId>block-1776183939310-oai5om76k</odeBlockId>
+      <blockName>Mapa mental tareas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobr23sq-6hklhaa00</odePageId>
+          <odeBlockId>block-1776183939310-oai5om76k</odeBlockId>
+          <odeIdeviceId>idevice-1776183939309-6ibtv0gyd</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">El siguiente mapa mental que nos permitirá visualizar de forma clara y organizada todas las tareas distribuidas por sesiones, para que podamos entender el camino que seguiremos durante el aprendizaje.</span></h3>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span><br></p>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">De esta manera, iremos descubriendo la relación entre la lírica del Renacimiento y la música actual.</span></h3>
+<h3><br></h3>
+<table class="exe-table exe-package-info"><caption title="Mapa mental tareas proyecto"><a href="https://drive.google.com/file/d/19Vbgg87qDycAZkSGGZotr3WsNhsvgRzw/view?usp=drive_link" title="Mapa mental tareas proyecto">Mapa mental tareas proyecto</a></caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Los tópicos de la lírica del s. XVI en la música actual</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje centrada en la lírica del Renacimiento español aplicada a 3º de ESO, basada en la metodología del trabajo cooperativo y mediante el empleo de recursos musicales. La propuesta se desarrolla a través de actividades que propician el rastreo de la supervivencia de los tópicos del Renacimiento en la música actual que escuchan los adolescentes.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Aránzazu Casabuena Rubio</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#753d10;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobr23sr-vz58fekdh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobr23sr-vz58fekdh</odePageId>
+      <odeBlockId>block-1776184338482-vun6z1gqw</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobr23sr-vz58fekdh</odePageId>
+          <odeBlockId>block-1776184338482-vun6z1gqw</odeBlockId>
+          <odeIdeviceId>idevice-1776184338482-ki8zgyo7s</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Antes de empezar el proyecto, conoceremos los criterios de evaluación que nos ayudarán a entender qué se espera de nuestro trabajo. </span></h3>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span><br></h3>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Así sabremos en qué debemos fijarnos para analizar los poemas, relacionarlos con la música actual y realizar nuestras actividades con éxito. </span></h3>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span><br></h3>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">De esta forma, cada paso del proyecto tendrá un objetivo claro y sabremos cómo demostrar todo lo que vamos a aprender.</span></h3>
+<p><br></p>
+<table class="exe-table exe-package-info"><caption title="Criterios de evaluación"><a href="https://drive.google.com/file/d/1ddBQCf5h3kpyY0byj-_9xsQ0R53gTdpl/view?usp=drive_link" title="Criterios de evaluación">Criterios de evaluación</a></caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Los tópicos de la lírica del s. XVI en la música actual</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje centrada en la lírica del Renacimiento español aplicada a 3º de ESO, basada en la metodología del trabajo cooperativo y mediante el empleo de recursos musicales. La propuesta se desarrolla a través de actividades que propician el rastreo de la supervivencia de los tópicos del Renacimiento en la música actual que escuchan los adolescentes.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Aránzazu Casabuena Rubio</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#754110;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobr23sr-wpnpx4f1x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobr23sr-wpnpx4f1x</odePageId>
+      <odeBlockId>block-1776263183326-6m1icf9pf</odeBlockId>
+      <blockName>Los instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobr23sr-wpnpx4f1x</odePageId>
+          <odeBlockId>block-1776263183326-6m1icf9pf</odeBlockId>
+          <odeIdeviceId>idevice-1776263183325-trr104nfa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Para investigar la conexión entre pasado y presente, trabajaremos como auténticos detectives de la música y la poesía. Analizaremos letras de canciones actuales, buscaremos en ellas los tópicos de la lírica renacentista y veremos cómo esas mismas ideas siguen vivas en la música que escuchamos hoy.</span></h3>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span><br /></p>
+<h3><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Pero, ¿cómo sabréis si lo estáis haciendo bien? </span></h3>
+<h3><br /><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Para ello utilizaremos diferentes instrumentos de evaluación que os ayudarán a mejorar paso a paso: el cuestionario y el diario de reflexión.</span></h3>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776263183325-trr104nfa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3><span style=\"font-family: 'comic sans ms', sans-serif; color: #e67e23;\">Para investigar la conexión entre pasado y presente, trabajaremos como auténticos detectives de la música y la poesía. Analizaremos letras de canciones actuales, buscaremos en ellas los tópicos de la lírica renacentista y veremos cómo esas mismas ideas siguen vivas en la música que escuchamos hoy.</span></h3>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #e67e23;\"></span><br /></p>\n<h3><span style=\"font-family: 'comic sans ms', sans-serif; color: #e67e23;\">Pero, ¿cómo sabréis si lo estáis haciendo bien? </span></h3>\n<h3><br /><span style=\"font-family: 'comic sans ms', sans-serif; color: #e67e23;\">Para ello utilizaremos diferentes instrumentos de evaluación que os ayudarán a mejorar paso a paso: el cuestionario y el diario de reflexión.</span></h3>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobr23ss-x0c2704gd</odePageId>
+  <odeParentPageId>page-mobr23sr-wpnpx4f1x</odeParentPageId>
+  <pageName>El cuestionario</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El cuestionario</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El cuestionario</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobr23ss-x0c2704gd</odePageId>
+      <odeBlockId>block-1776263357332-nix52072h</odeBlockId>
+      <blockName>El cuestionario</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobr23ss-x0c2704gd</odePageId>
+          <odeBlockId>block-1776263357332-nix52072h</odeBlockId>
+          <odeIdeviceId>idevice-1776263357331-hmzast7sn</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Al final de la primera y segunda sesión, completarás un breve cuestionario para comprobar qué has aprendido sobre los tópicos de la lírica renacentista y cómo aparecen también en canciones actuales. </span></h3>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span><br></h3>
+<h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Servirá para valorar si sabes identificar los temas, compararlos y reconocer los recursos literarios trabajados en clase.</span></h3>
+<table class="exe-table exe-package-info"><caption title="El cuestionario"><a href="https://drive.google.com/file/d/1l6Fiz1NtZPoUIb_a6Am8FqbENr74691k/view?usp=drive_link" title="El cuestionario">El cuestionario</a></caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Los tópicos de la lírica del s. XVI en la música actual</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje centrada en la lírica del Renacimiento español aplicada a 3º de ESO, basada en la metodología del trabajo cooperativo y mediante el empleo de recursos musicales. La propuesta se desarrolla a través de actividades que propician el rastreo de la supervivencia de los tópicos del Renacimiento en la música actual que escuchan los adolescentes.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Aránzazu Casabuena Rubio</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#753d10;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobr23ss-h189w3woq</odePageId>
+  <odeParentPageId>page-mobr23sr-wpnpx4f1x</odeParentPageId>
+  <pageName>El diario de reflexión</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El diario de reflexión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El diario de reflexión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobr23ss-h189w3woq</odePageId>
+      <odeBlockId>block-1776263541270-c2j0t5ibz</odeBlockId>
+      <blockName>Diario de reflexión</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobr23ss-h189w3woq</odePageId>
+          <odeBlockId>block-1776263541270-c2j0t5ibz</odeBlockId>
+          <odeIdeviceId>idevice-1776263541269-kkaqcjxw2</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><h3 style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Al finalizar el proyecto, escribirás un pequeño diario de reflexión donde contarás qué has descubierto, qué dificultades has tenido y qué conexiones ves entre la poesía de Garcilaso y la música de hoy.</span></h3>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span><br></p>
+<h3 style="text-align: center;"><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">¡Será tu espacio para pensar sobre tu propio aprendizaje!</span></h3>
+<table class="exe-table exe-package-info"><caption title="Diario de reflexión"><a href="https://drive.google.com/file/d/1yhwVHaS746gnGhMMGsqd82pyuGqxlTc-/view?usp=drive_link" title="Diario de reflexión">Diario de reflexión</a></caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Los tópicos de la lírica del s. XVI en la música actual</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje centrada en la lírica del Renacimiento español aplicada a 3º de ESO, basada en la metodología del trabajo cooperativo y mediante el empleo de recursos musicales. La propuesta se desarrolla a través de actividades que propician el rastreo de la supervivencia de los tópicos del Renacimiento en la música actual que escuchan los adolescentes.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Aránzazu Casabuena Rubio</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#754610;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobr23st-uglk31301</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atención a la diversidad</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobr23st-uglk31301</odePageId>
+      <odeBlockId>block-1776785916446-elnyp5gdd</odeBlockId>
+      <blockName>Atención a la diversidad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobr23st-uglk31301</odePageId>
+          <odeBlockId>block-1776785916446-elnyp5gdd</odeBlockId>
+          <odeIdeviceId>idevice-1776785916446-fuuq94028</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">En esta situación de aprendizaje para 3.º de ESO, centrada en los tópicos de la lírica renacentista a través de la música actual, he optado por el trabajo cooperativo como eje metodológico para atender la diversidad del aula.</span></h3>
+<p><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;"></span></p>
+<h3><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">La creación de grupos heterogéneos permite desarrollar la autonomía, la investigación y un clima inclusivo que beneficia a todo el alumnado.</span></h3>
+<h3><br /><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">Desde mi experiencia, este enfoque resulta especialmente útil con alumnado repetidor y con déficit de atención, ya que encuentran tareas concretas y apoyo constante en sus compañeros. El análisis compartido de letras musicales favorece la implicación y genera aprendizajes significativos en todo el alumnado.</span></h3>
+<h3><br /><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">En el proyecto final, la elaboración de un Canva, el trabajo cooperativo añade un componente motivador y facilita la participación activa. La asignación de roles dentro del grupo ayuda a equilibrar responsabilidades y mantener la atención.</span></h3>
+<h3><br /><span style="font-family: 'comic sans ms', sans-serif; color: #e67e23;">En definitiva, se trata de una propuesta didáctica que conecta contenidos literarios clásico y actuales con la realidad del alumnado, promoviendo un aprendizaje inclusivo y significativo.</span></h3>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776785916446-fuuq94028","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3><span style=\"font-family: 'comic sans ms', sans-serif; color: #e67e23;\">En esta situación de aprendizaje para 3.º de ESO, centrada en los tópicos de la lírica renacentista a través de la música actual, he optado por el trabajo cooperativo como eje metodológico para atender la diversidad del aula.</span></h3>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; color: #e67e23;\"></span></p>\n<h3><span style=\"font-family: 'comic sans ms', sans-serif; color: #e67e23;\">La creación de grupos heterogéneos permite desarrollar la autonomía, la investigación y un clima inclusivo que beneficia a todo el alumnado.</span></h3>\n<h3><br /><span style=\"font-family: 'comic sans ms', sans-serif; color: #e67e23;\">Desde mi experiencia, este enfoque resulta especialmente útil con alumnado repetidor y con déficit de atención, ya que encuentran tareas concretas y apoyo constante en sus compañeros. El análisis compartido de letras musicales favorece la implicación y genera aprendizajes significativos en todo el alumnado.</span></h3>\n<h3><br /><span style=\"font-family: 'comic sans ms', sans-serif; color: #e67e23;\">En el proyecto final, la elaboración de un Canva, el trabajo cooperativo añade un componente motivador y facilita la participación activa. La asignación de roles dentro del grupo ayuda a equilibrar responsabilidades y mantener la atención.</span></h3>\n<h3><br /><span style=\"font-family: 'comic sans ms', sans-serif; color: #e67e23;\">En definitiva, se trata de una propuesta didáctica que conecta contenidos literarios clásico y actuales con la realidad del alumnado, promoviendo un aprendizaje inclusivo y significativo.</span></h3>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobr23st-3wglnmtnt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica profesorado</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobr23st-3wglnmtnt</odePageId>
+      <odeBlockId>block-1776265007304-5zguct3f4</odeBlockId>
+      <blockName>Guía didáctica profesorado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobr23st-3wglnmtnt</odePageId>
+          <odeBlockId>block-1776265007304-5zguct3f4</odeBlockId>
+          <odeIdeviceId>idevice-1776265007297-0yiihu9c3</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption title="Guía didáctica"><a href="https://drive.google.com/file/d/1cn9QfGUQTy8X58UfirbLQ3g3u_DwV891/view?usp=drive_link" title="Guía didáctica">Guía didáctica</a></caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Los tópicos de la lírica del s. XVI en la música actual</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje centrada en la lírica del Renacimiento español aplicada a 3º de ESO, basada en la metodología del trabajo cooperativo y mediante el empleo de recursos musicales. La propuesta se desarrolla a través de actividades que propician el rastreo de la supervivencia de los tópicos del Renacimiento en la música actual que escuchan los adolescentes.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Aránzazu Casabuena Rubio</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#753d10;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobr23st-1mdbdivyu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Bibliografía especializada</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bibliografía especializada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bibliografía especializada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobr23st-1mdbdivyu</odePageId>
+      <odeBlockId>block-1776784672820-nh2chu16u</odeBlockId>
+      <blockName>Bibliografía especializada</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobr23st-1mdbdivyu</odePageId>
+          <odeBlockId>block-1776784672820-nh2chu16u</odeBlockId>
+          <odeIdeviceId>idevice-1776784672819-f3x171h1q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3><span style="font-family: arial, helvetica, sans-serif;">-Cárdenas, J. y Timón, L.M. (2010). <em>La lírica en la materia de lengua castellana y literatura</em>. Sevilla: Wanceulen Editorial.</span></h3>
+<h3><span style="font-family: arial, helvetica, sans-serif;">-Casimiro, M. (2015). <em>Secuencia Didáctica sobre la Literatura del Renacimiento a partir de los tópicos literarios</em>. (Trabajo Fin de Máster). Castellón de la</span><br /><span style="font-family: arial, helvetica, sans-serif;">Plana: Universitat Jaume I. </span></h3>
+<h3><span style="font-family: arial, helvetica, sans-serif;">-Coloma, J. (2011). <em>¿Los alumnos se aburren con la poesía?</em> (Trabajo Fin de Máster). Valencia: Universidad Cardenal Herrera CEU.</span></h3>
+<h3><span style="font-family: arial, helvetica, sans-serif;">-Gavilán, P. (1997). El trabajo cooperativo: Una alternativa eficaz para atender a la diversidad. Aula De Innovación Educativa, 85, 68-71. Recuperado de</span><br /><span style="font-family: arial, helvetica, sans-serif;"><a href="https://dialnet.unirioja.es/ejemplar/16605">https://dialnet.unirioja.es/ejemplar/16605</a></span></h3>
+<h3><br /></h3>
+<h3><br /></h3>
+<h3><br /></h3>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776784672819-f3x171h1q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3><span style=\"font-family: arial, helvetica, sans-serif;\">-Cárdenas, J. y Timón, L.M. (2010). <em>La lírica en la materia de lengua castellana y literatura</em>. Sevilla: Wanceulen Editorial.</span></h3>\n<h3><span style=\"font-family: arial, helvetica, sans-serif;\">-Casimiro, M. (2015). <em>Secuencia Didáctica sobre la Literatura del Renacimiento a partir de los tópicos literarios</em>. (Trabajo Fin de Máster). Castellón de la</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Plana: Universitat Jaume I. </span></h3>\n<h3><span style=\"font-family: arial, helvetica, sans-serif;\">-Coloma, J. (2011). <em>¿Los alumnos se aburren con la poesía?</em> (Trabajo Fin de Máster). Valencia: Universidad Cardenal Herrera CEU.</span></h3>\n<h3><span style=\"font-family: arial, helvetica, sans-serif;\">-Gavilán, P. (1997). El trabajo cooperativo: Una alternativa eficaz para atender a la diversidad. Aula De Innovación Educativa, 85, 68-71. Recuperado de</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><a href=\"https://dialnet.unirioja.es/ejemplar/16605\">https://dialnet.unirioja.es/ejemplar/16605</a></span></h3>\n<h3><br /></h3>\n<h3><br /></h3>\n<h3><br /></h3>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mobr23st-hrnl3wwbx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mobr23st-hrnl3wwbx</odePageId>
+      <odeBlockId>block-1776784343604-a211v5f9w</odeBlockId>
+      <blockName>Créditos situación de aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mobr23st-hrnl3wwbx</odePageId>
+          <odeBlockId>block-1776784343604-a211v5f9w</odeBlockId>
+          <odeIdeviceId>idevice-1776784343603-tnqrjdx4n</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>SITUACIÓN DE APRENDIZAJE</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Los tópicos de la lírica del s. XVI en la música actual</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje centrada en la lírica del Renacimiento español aplicada a 3º de ESO, basada en la metodología del trabajo cooperativo y mediante el empleo de recursos musicales. La propuesta se desarrolla a través de actividades que propician el rastreo de la supervivencia de los tópicos del Renacimiento en la música actual que escuchan los adolescentes.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Aránzazu Casabuena Rubio</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#754110;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>

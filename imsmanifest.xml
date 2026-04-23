@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-mobs6x8qputxt"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-mobs6x8qputxt">
+    <organization identifier="eXe-mobs6x8qputxt" structure="hierarchical">
+      <title>Los tópicos de la lírica del s. XVI en la música actual</title>
+      <item identifier="ITEM-page-mobr23sh-whd27in8t" identifierref="RES-page-mobr23sh-whd27in8t" isvisible="true">
+        <title>Presentación y descripción del proyecto</title>
+      </item>
+      <item identifier="ITEM-page-mobr23sn-n617lxnb7" identifierref="RES-page-mobr23sn-n617lxnb7" isvisible="true">
+        <title>Protección de datos personales y garantías de derechos digitales</title>
+      </item>
+      <item identifier="ITEM-page-mobr23sn-y395j06ak" identifierref="RES-page-mobr23sn-y395j06ak" isvisible="true">
+        <title>Producto final</title>
+      </item>
+      <item identifier="ITEM-page-mobr23so-xz7txudg6" identifierref="RES-page-mobr23so-xz7txudg6" isvisible="true">
+        <title>Herramientas de curación</title>
+        <item identifier="ITEM-page-mobr23sp-cus8boxtf" identifierref="RES-page-mobr23sp-cus8boxtf" isvisible="true">
+          <title>Trabajo diario</title>
+        </item>
+        <item identifier="ITEM-page-mobr23sq-7rx54qjvu" identifierref="RES-page-mobr23sq-7rx54qjvu" isvisible="true">
+          <title>Elaboración proyecto</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-mobr23sq-6hklhaa00" identifierref="RES-page-mobr23sq-6hklhaa00" isvisible="true">
+        <title>Mapa mental tareas</title>
+      </item>
+      <item identifier="ITEM-page-mobr23sr-vz58fekdh" identifierref="RES-page-mobr23sr-vz58fekdh" isvisible="true">
+        <title>Criterios de evaluación</title>
+      </item>
+      <item identifier="ITEM-page-mobr23sr-wpnpx4f1x" identifierref="RES-page-mobr23sr-wpnpx4f1x" isvisible="true">
+        <title>Instrumentos de evaluación</title>
+        <item identifier="ITEM-page-mobr23ss-x0c2704gd" identifierref="RES-page-mobr23ss-x0c2704gd" isvisible="true">
+          <title>El cuestionario</title>
+        </item>
+        <item identifier="ITEM-page-mobr23ss-h189w3woq" identifierref="RES-page-mobr23ss-h189w3woq" isvisible="true">
+          <title>El diario de reflexión</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-mobr23st-uglk31301" identifierref="RES-page-mobr23st-uglk31301" isvisible="true">
+        <title>Atención a la diversidad</title>
+      </item>
+      <item identifier="ITEM-page-mobr23st-3wglnmtnt" identifierref="RES-page-mobr23st-3wglnmtnt" isvisible="true">
+        <title>Guía didáctica profesorado</title>
+      </item>
+      <item identifier="ITEM-page-mobr23st-1mdbdivyu" identifierref="RES-page-mobr23st-1mdbdivyu" isvisible="true">
+        <title>Bibliografía especializada</title>
+      </item>
+      <item identifier="ITEM-page-mobr23st-hrnl3wwbx" identifierref="RES-page-mobr23st-hrnl3wwbx" isvisible="true">
+        <title>Créditos</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-mobr23sh-whd27in8t" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mobr23sn-n617lxnb7" type="webcontent" adlcp:scormtype="sco" href="html/proteccion-de-datos-personales-y-garantias-de-dere.html">
+      <file href="html/proteccion-de-datos-personales-y-garantias-de-dere.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mobr23sn-y395j06ak" type="webcontent" adlcp:scormtype="sco" href="html/producto-final.html">
+      <file href="html/producto-final.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mobr23so-xz7txudg6" type="webcontent" adlcp:scormtype="sco" href="html/herramientas-de-curacion.html">
+      <file href="html/herramientas-de-curacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mobr23sp-cus8boxtf" type="webcontent" adlcp:scormtype="sco" href="html/trabajo-diario.html">
+      <file href="html/trabajo-diario.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mobr23sq-7rx54qjvu" type="webcontent" adlcp:scormtype="sco" href="html/elaboracion-proyecto.html">
+      <file href="html/elaboracion-proyecto.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mobr23sq-6hklhaa00" type="webcontent" adlcp:scormtype="sco" href="html/mapa-mental-tareas.html">
+      <file href="html/mapa-mental-tareas.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mobr23sr-vz58fekdh" type="webcontent" adlcp:scormtype="sco" href="html/criterios-de-evaluacion.html">
+      <file href="html/criterios-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mobr23sr-wpnpx4f1x" type="webcontent" adlcp:scormtype="sco" href="html/instrumentos-de-evaluacion.html">
+      <file href="html/instrumentos-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mobr23ss-x0c2704gd" type="webcontent" adlcp:scormtype="sco" href="html/el-cuestionario.html">
+      <file href="html/el-cuestionario.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mobr23ss-h189w3woq" type="webcontent" adlcp:scormtype="sco" href="html/el-diario-de-reflexion.html">
+      <file href="html/el-diario-de-reflexion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mobr23st-uglk31301" type="webcontent" adlcp:scormtype="sco" href="html/atencion-a-la-diversidad.html">
+      <file href="html/atencion-a-la-diversidad.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mobr23st-3wglnmtnt" type="webcontent" adlcp:scormtype="sco" href="html/guia-didactica-profesorado.html">
+      <file href="html/guia-didactica-profesorado.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mobr23st-1mdbdivyu" type="webcontent" adlcp:scormtype="sco" href="html/bibliografia-especializada.html">
+      <file href="html/bibliografia-especializada.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mobr23st-hrnl3wwbx" type="webcontent" adlcp:scormtype="sco" href="html/creditos.html">
+      <file href="html/creditos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="idevices/download-source-file/download-package-licenses.png"/>
+      <file href="idevices/download-source-file/download-source-file.css"/>
+      <file href="idevices/download-source-file/download-source-file.js"/>
+      <file href="idevices/download-source-file/exequextsq.svg"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/elpx-manifest.js"/>
+      <file href="libs/exe_elpx_download/exe_elpx_download.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/fflate/fflate.umd.js"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/fonts/open-sans-bold.woff"/>
+      <file href="theme/fonts/open-sans-bold.woff2"/>
+      <file href="theme/fonts/open-sans.woff"/>
+      <file href="theme/fonts/open-sans.woff2"/>
+      <file href="theme/icons/activity.svg"/>
+      <file href="theme/icons/agreement.svg"/>
+      <file href="theme/icons/alert.svg"/>
+      <file href="theme/icons/arts.svg"/>
+      <file href="theme/icons/ask.svg"/>
+      <file href="theme/icons/book.svg"/>
+      <file href="theme/icons/calculate.svg"/>
+      <file href="theme/icons/case.svg"/>
+      <file href="theme/icons/chrono.svg"/>
+      <file href="theme/icons/collaborative.svg"/>
+      <file href="theme/icons/competencies.svg"/>
+      <file href="theme/icons/diary.svg"/>
+      <file href="theme/icons/diary_alt.svg"/>
+      <file href="theme/icons/discuss.svg"/>
+      <file href="theme/icons/download.svg"/>
+      <file href="theme/icons/draw.svg"/>
+      <file href="theme/icons/english.svg"/>
+      <file href="theme/icons/experiment.svg"/>
+      <file href="theme/icons/explore.svg"/>
+      <file href="theme/icons/file.svg"/>
+      <file href="theme/icons/gallery.svg"/>
+      <file href="theme/icons/geography.svg"/>
+      <file href="theme/icons/guide.svg"/>
+      <file href="theme/icons/history.svg"/>
+      <file href="theme/icons/info.svg"/>
+      <file href="theme/icons/interactive.svg"/>
+      <file href="theme/icons/letters.svg"/>
+      <file href="theme/icons/listen.svg"/>
+      <file href="theme/icons/math.svg"/>
+      <file href="theme/icons/music.svg"/>
+      <file href="theme/icons/nature.svg"/>
+      <file href="theme/icons/objectives.svg"/>
+      <file href="theme/icons/observe.svg"/>
+      <file href="theme/icons/passport.svg"/>
+      <file href="theme/icons/perform.svg"/>
+      <file href="theme/icons/piece.svg"/>
+      <file href="theme/icons/pieces.svg"/>
+      <file href="theme/icons/play.svg"/>
+      <file href="theme/icons/present.svg"/>
+      <file href="theme/icons/reflection.svg"/>
+      <file href="theme/icons/roadmap.svg"/>
+      <file href="theme/icons/share.svg"/>
+      <file href="theme/icons/sport.svg"/>
+      <file href="theme/icons/start.svg"/>
+      <file href="theme/icons/stop.svg"/>
+      <file href="theme/icons/suitcase.svg"/>
+      <file href="theme/icons/technology.svg"/>
+      <file href="theme/icons/think.svg"/>
+      <file href="theme/icons/think_alt.svg"/>
+      <file href="theme/icons/video.svg"/>
+      <file href="theme/img/arrow.svg"/>
+      <file href="theme/img/arrow_back.svg"/>
+      <file href="theme/img/arrow_down.svg"/>
+      <file href="theme/img/arrow_forward.svg"/>
+      <file href="theme/img/book.svg"/>
+      <file href="theme/img/book_color.svg"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/img/logo.png"/>
+      <file href="theme/img/logo_responsive.png"/>
+      <file href="theme/img/menu_closed.svg"/>
+      <file href="theme/img/menu_open.svg"/>
+      <file href="theme/img/search.svg"/>
+      <file href="theme/img/switch.svg"/>
+      <file href="theme/img/switch_white.svg"/>
+      <file href="theme/img/teacher_hat.svg"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>
